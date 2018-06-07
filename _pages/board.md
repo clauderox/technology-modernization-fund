@@ -16,7 +16,7 @@ The TMF Board is comprised of 7 voting members:
 - A member of the Department of Homeland Security’s (DHS) National Protection and Programs Directorate (NPPD)
 - Four employees of the Federal Government primarily having technical expertise in information technology development, financial management, cybersecurity and privacy, and acquisition
 
-Additionally, 4 alternate members with expertise in information technology, cybersecurity, and acquisitions provide additional insight and can stand-in for voting members if required. 
+Additionally, 4 alternate members with expertise in information technology, cybersecurity, and acquisitions provide added insight and can stand-in for voting members if required. 
 
 ## Voting Board Members
 
