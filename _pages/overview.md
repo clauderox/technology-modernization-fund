@@ -16,7 +16,7 @@ The TMF establishes a new funding model for Federal technology modernization sol
 
 ## How the TMF works
 
-In FY 2018, the TMF received $100 million to fund modernization projects. The TMF is overseen by the Technology Modernization Board comprised of an elite group of Government IT leaders that review and recommend projects for funding. 
+In FY 2018, the TMF was appropriated $100 million to fund modernization projects. The TMF is overseen by the Technology Modernization Board comprised of Government IT leaders with proven skills in technology, transformation, and operations. The Technology Modernization Board reviews and recommends projects for TMF funding. 
 
 Agencies submit technology modernization proposals through a two-phased approval process: 
 
